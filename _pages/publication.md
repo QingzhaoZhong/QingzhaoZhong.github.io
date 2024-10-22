@@ -16,13 +16,13 @@ redirect_from:
 
 - **Q.Z. Zhong** and Y.X. Hou, 2024, Tail Risk Equivalent Level Transition and Its Application for Estimating Extreme $$L_p$$-quantiles, ***Submitted***.
 
-%## Conference Articles
+## Conference Articles
 
 
 ## Manuscripts
 
 - **Q.Z. Zhong** and Y.X. Hou, 2024, Backtesting PELVE based on ARMA-GARCH Model, ***Working paper***.
-- **Q.Z. Zhong** and Y.X. Hou, 2024, Extreme Expected Shortfall regression, ***Working paper***.
+- **Q.Z. Zhong** and Y.X. Hou, 2024, Extreme Expected Shortfall Regression, ***Working paper***.
 
 
 ## Dissertation
